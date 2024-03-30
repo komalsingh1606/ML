@@ -1,1 +1,8 @@
-Machine learning is the study of computer algorithms that can improve automatically through experience and by the use of data. It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so. Machine learning algorithms are used in a wide variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks.
+-> Machine learning is the study of computer algorithms that can improve automatically through experience and by the use of data. 
+It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as "training data", 
+to make predictions or decisions without being explicitly programmed to do so. Machine learning algorithms are used in a wide variety of applications, 
+such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks.
+
+->  Machine Learning is a form of artificial intelligence that teaches computers to learn and make decisions from data. 
+Unlike traditional programming, which requires explicit rule definitions for every possible scenario, ML enables algorithms to identify patterns in data and learn on their own. 
+This capability is crucial for complex tasks, such as image recognition and natural language processing, where defining explicit rules would be an overly complex and lengthy task. 
